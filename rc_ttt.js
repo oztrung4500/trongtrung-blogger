@@ -1,3 +1,4 @@
+//comment
 function BacSiWindows_RCv3(data) {
     var STYLESHEET;
     STYLESHEET = '<ul class="BacSiWindows_RCv3">';
