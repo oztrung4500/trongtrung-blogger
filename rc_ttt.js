@@ -41,7 +41,7 @@ function BacSiWindows_RCv3(data) {
     STYLESHEET += "";
     document.write(STYLESHEET)
 }
-var numComments = 5;
+var numComments = 3;
 var avatarSize = 40;
 var characters = 100;
 var defaultAvatar = defaultAvatar || "https://4.bp.blogspot.com/-jmA-qIOJIFU/WfgKSYnhm5I/AAAAAAAAABQ/ElEIBlHd31gISODb3GlA9Z_JPRKiSzvYQCLcBGAs/s40/Logo-Bac-Si-Windows.png";
